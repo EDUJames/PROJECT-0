@@ -1,0 +1,12 @@
+$mobilefontsize: 120%;
+
+@media only screen and (max-width: 600px) {
+  .bodies{
+    font-size: $mobilefontsize
+  }
+}
+
+
+#indexbody{
+  margin: 2px 1% 0 5px;
+}
