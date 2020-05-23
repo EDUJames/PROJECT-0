@@ -4,6 +4,9 @@ $mobilefontsize: 120%;
   .bodies{
     font-size: $mobilefontsize
   }
+  .doglis {
+    font-size: 100%;
+  }
 }
 
 
@@ -43,6 +46,9 @@ table {
   border-collapse: collapse; 
   margin: 0 auto;
 } 
+ul {
+  font-size: 150%;
+}
 %tables {
   width:150px; 
   text-align:center; 

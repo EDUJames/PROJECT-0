@@ -2,6 +2,10 @@
   .bodies {
     font-size: 120%;
   }
+
+  .doglis {
+    font-size: 100%;
+  }
 }
 #indexbody {
   margin: 2px 1% 0 5px;
@@ -35,6 +39,10 @@ a img {
 table {
   border-collapse: collapse;
   margin: 0 auto;
+}
+
+ul {
+  font-size: 150%;
 }
 
 td, th {
